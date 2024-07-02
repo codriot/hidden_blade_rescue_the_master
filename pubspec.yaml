@@ -1,0 +1,37 @@
+name: hidden_blade_rescue_the_master
+description: "2d platformer/action adventure game"
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flame: ^1.18.0
+  flame_tiled: ^1.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/tiles/
+    - assets/images/Terrain/
+    - assets/images/characters/Berserker/
+    - assets/images/characters/Fighter/
+    - assets/images/characters/Samurai/
+    - assets/images/characters/Shinobi/
+    - assets/images/characters/Mask Dude/
+    - assets/images/HUD/
