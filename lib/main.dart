@@ -52,39 +52,3 @@ class LoginView extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-// import 'package:flame/Flame.dart';
-// import 'package:flame/game.dart';
-// import 'package:flame_deneme/shinobis_advanture.dart';
-// import 'package:flutter/material.dart';
-
-// void main() {
-//   WidgetsFlutterBinding.ensureInitialized();
-//   // Flame.device.fullScreen();
-//   Flame.device.setLandscape();
-//   // ShinobisAdvanture game = ShinobisAdvanture();
-//   // runApp(GameWidget(game: game));
-
-//   runApp(const LoginView());
-// }
-
-// class LoginView extends StatelessWidget {
-//   const LoginView({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Center(
-//       child: ElevatedButton(
-//         onPressed: () {
-//           ShinobisAdvanture game = ShinobisAdvanture();
-//           runApp(GameWidget(game: game));
-//         },
-//         child: const Text('Start Game'),
-//       ),
-//     );
-//   }
-// }

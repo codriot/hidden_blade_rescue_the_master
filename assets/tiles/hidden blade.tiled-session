@@ -3,36 +3,161 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Level-02.tmx",
+    "activeFile": "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tmx",
     "expandedProjectPaths": [
-        "."
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles"
     ],
+    "file.lastUsedOpenFilter": "Tüm Dosyalar (*)",
     "fileStates": {
-        "Hidden Blade.tsx": {
+        "C:/Users/almus/AppData/Local/Temp/ca753a7b-3e69-4785-86c8-d73f83e4b86b_Tiled Sample.zip.86b/Sample.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5889,
+                "y": 2601
+            }
+        },
+        "C:/Users/almus/AppData/Local/Temp/ca753a7b-3e69-4785-86c8-d73f83e4b86b_Tiled Sample.zip.86b/Sample.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/almus/AppData/Local/Temp/caf6a6e8-1f75-4068-b622-5fb351b33467_Tiled Sample.zip.467/Sample.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5809,
+                "y": 2905
+            }
+        },
+        "C:/Users/almus/AppData/Local/Temp/caf6a6e8-1f75-4068-b622-5fb351b33467_Tiled Sample.zip.467/Sample.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/almus/AppData/Local/Temp/d836ba43-6e61-45e2-82ca-d0efcd8a4497_Tiled Sample.zip.497/Sample.tmx": {
+            "scale": 0.07744565217391304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5481.2631578947385,
+                "y": 2898.80701754386
+            }
+        },
+        "C:/Users/almus/AppData/Local/Temp/d836ba43-6e61-45e2-82ca-d0efcd8a4497_Tiled Sample.zip.497/Sample.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/almus/AppData/Local/Temp/e4c6f1cb-62b0-4cfa-a73c-ee74358028c0_Tiled Sample.zip.8c0/Sample.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5889,
+                "y": 2905
+            }
+        },
+        "C:/Users/almus/AppData/Local/Temp/e4c6f1cb-62b0-4cfa-a73c-ee74358028c0_Tiled Sample.zip.8c0/Sample.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/almus/Downloads/resim/iso/Samples/Tiled Sample/Sample.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5889.39393939394,
+                "y": 2904.545454545455
+            }
+        },
+        "C:/Users/almus/Downloads/resim/iso/Samples/Tiled Sample/Sample.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33
+        },
+        "C:/Users/almus/Downloads/vidyo/sample/Building C1.2 sz1 shadow.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/Downloads/vidyo/sample/Sample.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 6340.666666666666,
+                "y": 3026
+            }
+        },
+        "C:/Users/almus/Downloads/vidyo/sample/Sample.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33
+        },
+        "C:/Users/almus/Downloads/vidyo/sample/cowboy.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/Downloads/vidyo/sample/window_S.tsx": {
             "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/Building C sz1 noshadow.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/Warrior_Blue.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 298.4848484848485,
+                "y": -65.15151515151524
+            }
+        },
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Hidden Blade.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
             "scaleInEditor": 1
         },
         "Level-01.tmx": {
             "expandedObjectLayers": [
+                3,
                 2
             ],
-            "scale": 0.75,
-            "selectedLayer": 1,
-            "viewCenter": {
-                "x": 364.66666666666663,
-                "y": 257.99999999999994
-            }
-        },
-        "Level-02.tmx": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 289.5,
-                "y": 169.5
+                "x": 320.5,
+                "y": 183.5
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.5,
+                "y": 183.5
+            }
+        },
+        "Level-03.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.6666666666667,
+                "y": 183.33333333333331
             }
         }
     },
-    "last.imagePath": "C:/Genel/develop/flame_deneme/assets/images/Terrain",
+    "last.externalTilesetPath": "C:/Users/almus/Downloads/vidyo/sample",
+    "last.imagePath": "C:/Users/almus/Downloads",
     "map.height": 23,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
@@ -41,17 +166,36 @@
     "openFiles": [
         "Hidden Blade.tsx",
         "Level-01.tmx",
-        "Level-02.tmx"
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "C:/Users/almus/Downloads/resim/iso/Samples/Tiled Sample/Sample.tmx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tmx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy2.tsx",
+        "C:/Users/almus/Downloads/vidyo/sample/Sample.tmx",
+        "C:/Users/almus/Downloads/vidyo/sample/cowboy.tsx",
+        "C:/Users/almus/Downloads/vidyo/sample/cowboy.tsx",
+        "C:/Users/almus/Downloads/vidyo/sample/cowboy.tsx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy.tsx"
     ],
     "project": "hidden blade.tiled-project",
     "recentFiles": [
         "Hidden Blade.tsx",
         "Level-01.tmx",
-        "Level-02.tmx"
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "C:/Users/almus/Downloads/resim/iso/Samples/Tiled Sample/Sample.tmx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy.tsx",
+        "C:/Users/almus/Downloads/vidyo/sample/cowboy.tsx",
+        "C:/Users/almus/Downloads/vidyo/sample/Sample.tmx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/cowboy2.tsx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tmx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/Warrior_Blue.tsx",
+        "C:/Users/almus/OneDrive/Masaüstü/isometric_map-main/assets/tiles/tile_map.tsx"
     ],
+    "tileset.lastUsedFilter": "Tiled desen seti dosyaları (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 32,
+        "width": 64
     }
 }
